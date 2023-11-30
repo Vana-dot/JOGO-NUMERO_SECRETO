@@ -8,6 +8,6 @@ Na primeira demonstração o projeto foi desenvolvido no curso **Lógica de prog
 
 ![Jogo número secreto](./Projetos_numero_secreto/logica-js-projeto_inicial/img/printTela.png)
 
-Na primeira demonstração o projeto foi desenvolvido no curso **Lógica de programação: explore funções e listas** da ***Alura***
+Na segunda demonstração o projeto foi desenvolvido no curso **Lógica de programação: explore funções e listas** da ***Alura***
 
 ![Jogo número secreto2](./Projetos_numero_secreto/js-curso-2/img/printDeTela.png)
